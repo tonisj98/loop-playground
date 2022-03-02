@@ -10,6 +10,6 @@
 
  let veces = 5;
 
- for (let i=5; i<veces; i++) {
+ for (let i=5; i<15; i++) {
      console.log("No me voy a ejecutar...")
  }

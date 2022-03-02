@@ -31,5 +31,11 @@ for (let i=0; i<ultimoNumeroComprobar;i++) {
     console.log(`El número ${i} es par o impar? ${esNumeroPar}`)
 
     // Modificar a partir de aquí
+    
+    if (i % 2 == 0) {
+        console.log("Soy un numero positivo")
+    } else {
+        console.log("Soy un numero negativo")
+    }
 }
 
